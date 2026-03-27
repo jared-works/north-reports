@@ -1,0 +1,4 @@
+requests
+pgeocode
+anthropic
+python-dotenv
